@@ -8,7 +8,6 @@
 
 # 微步
 ![image](https://github.com/ToT0vO/RWX_loader/assets/129960499/0b691abf-7705-4717-b359-243d9ad554b4)
->https://s.threatbook.com/report/file/8a2dfca748c593c46d902cb27fa5c8fe19450a88d27929dc1a7c3e315b4081f6
 
 # 微步特征匹配情况
 ![3QO{5_@~D(YTLQWRL~Y L G](https://github.com/ToT0vO/RWX_loader/assets/129960499/ae61dd54-e65c-46f3-979b-05fa9e3107fa)
